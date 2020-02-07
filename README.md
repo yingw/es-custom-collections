@@ -7,14 +7,23 @@ ES 2.6 支持定制集合，有些主题还带了这些集合的设计。定制�
 名称 | 说明
 ---|---
 atari |
-batman | 蝙蝠侠
 btmups | Beat 'em up 清版动作类
 capcom |
-castlevania | 恶魔城
+cave |
 cps1 |
 cps2 |
 cps3 |
+hudson |
+namco |
+nintendo |
+sega |
+konami |
+sunsoft |
+irem |
+taito |
 dataeast |
+batman | 蝙蝠侠
+castlevania | 恶魔城
 disney | 迪士尼
 donkeykong | 大金刚
 doubledragon | 双截龙
@@ -22,11 +31,8 @@ fighting |
 finalfantasy | 最终幻想
 frogger |
 ghostsghouls | 魔界村
-hudson |
-irem |
 kof | 拳皇
 kirby | 星之卡比
-konami |
 lightgun |
 mario | 马里奥
 midway |
@@ -34,13 +40,10 @@ megaman | 洛克人
 metalslug | 合金弹头
 metroid | 银河战士
 mortalkombat | 真人快打
-namco |
-nintendo |
 pacman | 吃豆人
 pinball | 弹球
 pokemon | 神奇宝贝
 racing |
-sega |
 shmups |
 simpsons |
 snk |
@@ -52,8 +55,6 @@ spyro | 斯派罗
 squaresoft |
 starwars | 星球大战
 streetfighter | 街头霸王
-sunsoft |
-taito |
 tmnt | 忍者神龟
 trackball |
 williams |
